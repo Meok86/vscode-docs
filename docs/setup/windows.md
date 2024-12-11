@@ -12,7 +12,7 @@ MetaDescription: Get Visual Studio Code up and running on Windows
 ## Installation
 
 1. Download the [Visual Studio Code installer](https://go.microsoft.com/fwlink/?LinkID=534107) for Windows.
-2. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
+2. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.windows.md 4, M
 3. By default, VS Code is installed under `C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code`.
 
 Alternatively, you can also download a [Zip archive](/docs/?dv=winzip), extract it and run Code from there.
